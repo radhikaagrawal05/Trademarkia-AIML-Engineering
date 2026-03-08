@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sentence-transformers==3.1.1
+bertopic==0.16.3
+chromadb==0.5.11
+torch==2.4.1
+scikit-learn==1.5.2
+numpy==2.1.1
+pandas==2.2.3
+hnswlib==0.8.0
